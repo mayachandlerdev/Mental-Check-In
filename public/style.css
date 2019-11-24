@@ -1,0 +1,17 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-color: greenyellow;
+}
+img{
+  height: 200px;
+}
+#answer{
+  width: 30%;
+}
+ul{
+  margin-top: 10%;
+}
+.first{
+  margin-top: 20%;
+}
