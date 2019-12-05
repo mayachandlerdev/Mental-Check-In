@@ -1,4 +1,6 @@
-# mentalCheckIn
+# Mental Check-In
+
+![alt text]()
 
 Git clone and npm install in your terminal for use :)
 
