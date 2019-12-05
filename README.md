@@ -1,6 +1,6 @@
 # Mental Check-In
 
-![alt text]()
+![alt text](mentalcheck.jpg)
 
 Git clone and npm install in your terminal for use :)
 
